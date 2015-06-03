@@ -1,5 +1,5 @@
 # MySQL Server
-Docker image to run basic MySQL Server on Debian, mysql cli included.
+Docker image to run basic MySQL Server on Debian, mysql-client cli included.
 
 # Usage
 

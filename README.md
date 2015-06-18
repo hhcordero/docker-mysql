@@ -16,6 +16,9 @@ Basic run parameters:
 Default values are set for the following variables. Change the values accodingly.
 
 `MYSQL_ROOT_PASSWORD` is set to `root`
+
 `MYSQL_DATABASE` is set to `db`
+
 `MYSQL_USER` is set to `user`
+
 `MYSQL_PASSWORD` is set to `password`
